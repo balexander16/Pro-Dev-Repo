@@ -21,3 +21,15 @@ and learning new concepts. Weakness: can "go down the rabit hole" and lose focus
 
 ## Paragraph about passion project. 
   Current passion projects of mine is carpentry and creating things my family can use. I recently built a sandbox for our back yard for my daughter, I also built our dining room table. I love just creating with my hands, using the tools and quite often messing up. Alot. Finding plans and then adapting them to suit my purpose or even creating my own blueprints to work from is satisfying. 
+
+
+## Version 1 Elevator pitch.
+  I'm Brian Alexander.
+  
+  Create android apps that modern businesses or consumers would want to use. 
+  
+  I love to build things with my hands. Creating apps and watching people interact with them in new and different ways excites me. 
+  
+  Use creative and innovative ideas, while collaborating with peers to make excellent. 
+  
+  Do you have a business card? Could we stay in touch and get coffee so I can tell you more?
