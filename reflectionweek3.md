@@ -10,3 +10,5 @@ The idea for my personal android project is an image detection utilizing app tha
 prompts to complete a choose your own adventure roleplaying story. Initial versions will have a very simple linear branching paths to 
 keep the scope narrow enough for the time allowed. Hopefully I can accomplish this using either Amazon Rekognition, Google Cloud Vision, or 
 Clarifai. Depends upon how many pictures I will actually be using they have a limited scope of free development usability.
+
+In the bootcamp this week we are finishing up a FizzBuzz game together that actually works. I've developed a game now. Learning about enums and generic methods and classes has been interesting this week. I really enjoy the concepts of one set of code that can work for different variables types is awesome. I definetly would not want to rewrite the same code a million times for each primitive type I want to use when one size fits all works!
