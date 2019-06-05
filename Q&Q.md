@@ -17,3 +17,7 @@ Weakness, can be a pleaser.
 
 * Life long learner/sponginess. Love to learn new things or stay up to date on things im passionate about. Strength: expanding mindset and 
 and learning new concepts. Weakness: can "go down the rabit hole" and lose focus on original task. 
+
+
+## Paragraph about passion project. 
+  Current passion projects of mine is carpentry and creating things my family can use. I recently built a sandbox for our back yard for my daughter, I also built our dining room table. I love just creating with my hands, using the tools and quite often messing up. Alot. Finding plans and then adapting them to suit my purpose or even creating my own blueprints to work from is satisfying. 
