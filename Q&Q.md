@@ -1,6 +1,6 @@
-#Quantitative and Qualitative accomplishments
+# Quantitative and Qualitative accomplishments
 
-##Quantitative
+## Quantitative
 
 * $1,000,000 in property sales in one summer.
 
@@ -8,7 +8,7 @@
 
 * Married for 4 years. 
 
-##Qualitative
+## Qualitative
 
 * Love to meet people and build relationships. Extroverted nature. Strength in so far as I am comfortable talking to anyone. 
 Weakness, can be a pleaser.
