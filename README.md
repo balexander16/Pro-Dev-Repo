@@ -1,3 +1,3 @@
 # Brian Alexander Pro Dev Repo
 
-[First Workshop] (firstworkshop.md)
+[First Workshop](firstworkshop.md)
