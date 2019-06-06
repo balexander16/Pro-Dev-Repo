@@ -33,3 +33,5 @@ and learning new concepts. Weakness: can "go down the rabit hole" and lose focus
   Use creative and innovative ideas, while collaborating with peers to make excellent. 
   
   Do you have a business card? Could we stay in touch and get coffee so I can tell you more?
+
+![Thought map and golden circles](https://github.com/balexander16/Pro-Dev-Repo/blob/master/Thought%20Map%20Pro%20Dev.drawio)
