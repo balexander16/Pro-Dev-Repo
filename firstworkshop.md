@@ -30,8 +30,8 @@ and learning new concepts. Weakness: can "go down the rabit hole" and lose focus
   
   I love to build things with my hands. Creating apps and watching people interact with them in new and different ways excites me. 
   
-  Use creative and innovative ideas, while collaborating with peers to make excellent. 
+  Use creative and innovative ideas, while collaborating with peers to make excellent content. 
   
-  Do you have a business card? Could we stay in touch and get coffee so I can tell you more?
+  Do you have a business card? Could we stay in touch and get coffee maybe discuss some ideas.
 
 ![Thought map and golden circles](https://github.com/balexander16/Pro-Dev-Repo/blob/master/Thought%20Map%20Pro%20Dev.png)
