@@ -35,4 +35,4 @@ and learning new concepts. Weakness: can "go down the rabit hole" and lose focus
   Do you have a business card? Could we stay in touch and get coffee maybe discuss some ideas.
 
 [Thought Map and Golden Circle Excercise in PDF](https://github.com/balexander16/Pro-Dev-Repo/blob/master/Thought%20Map%20Pro%20Dev.pdf)
-![Thought map and golden circles](https://github.com/balexander16/Pro-Dev-Repo/blob/master/Thought%20Map%20Pro%20Dev.png)
+![Thought map and golden circles](Thought Map Pro Dev.png)
