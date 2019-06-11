@@ -8,4 +8,4 @@ Here is where I reflect and build upon my proffessional development and time thr
 
 [First Resume](docs/Brian-Alexander-Resume-1.pdf)
 
-[Second Resume]()
+[Second Resume](docs/Brian-Alexander-Resume-2.pdf)
