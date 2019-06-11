@@ -5,3 +5,7 @@ Here is where I reflect and build upon my proffessional development and time thr
 [First Workshop](firstworkshop.md)
 
 [Reflection Week 3](reflectionweek3.md)
+
+[First Resume]()
+
+[Second Resume]()
