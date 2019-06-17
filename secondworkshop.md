@@ -1,5 +1,5 @@
 ## Activity One: Visuals Speaks
-![Two Pictures for Activity](twopictures.jpg)
+![Two Pictures for Activity](/docs/twopictures.jpg)
 First Picture is bacon and a frying pan. 
 
 The frying pan symbolizes this bootcamp giving me the skills and confidence to be successful as a software developer. So currently I am the raw bacon,
