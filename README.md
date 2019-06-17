@@ -8,6 +8,8 @@ Here is where I reflect and build upon my proffessional development and time thr
 
 [Reflection Week 3](reflectionweek3.md)
 
+[Reflection Week 4](reflectionweek4.md)
+
 [First Resume](docs/Brian-Alexander-Resume-1.pdf)
 
 [Second Resume](docs/Brian-Alexander-Resume-2.pdf)
