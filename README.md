@@ -12,6 +12,8 @@ Here is where I reflect and build upon my proffessional development and time thr
 
 [Forbidden Island Reflection](gamereflection.md)
 
+[Persuasion Workshop PD W4](workshop4.md)
+
 [First Resume](docs/Brian-Alexander-Resume-1.pdf)
 
 [Second Resume](docs/Brian-Alexander-Resume-2.pdf)
