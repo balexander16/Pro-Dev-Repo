@@ -2,5 +2,5 @@
 
 ###
 Four burners activity.
-[Burners Activity](burnersactivity.pdf)
-![BurnersActivity](burnersactivity.png)
+[Burners Activity](docs/burnersactivity.pdf)
+![BurnersActivity](docs/burnersactivity.png)
